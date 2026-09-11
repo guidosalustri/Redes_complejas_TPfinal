@@ -34,5 +34,5 @@ placed a number of them near NF-κB signalling. The full argument is in the repo
 
 ## Notes
 
-Group project, 2019. Exploratory coursework rather than a validated result —
+Group project, 2018. Exploratory coursework rather than a validated result —
 no independent cohort was used, so treat the regulator list as candidates.
